@@ -95,6 +95,7 @@ const Icons = styled.div`
   margin-bottom: 4rem;
   flex: 1;
   min-width: 100%;
+  flex-wrap: wrap;
 
   ${media.phone`
     margin: 2rem 0;
